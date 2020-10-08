@@ -3,9 +3,14 @@
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "allowUnreachableCode": false,
-    "allowUnusedLabels": false
+    "allowUnusedLabels": false,
+    "outDir": "./dist"
   },
   "files": [],
   "include": [],
-  "exclude": []
+  "exclude": [],
+  "typeAcquisition": {
+    "enable": false
+  },
+  "compileOnSave": false
 }
