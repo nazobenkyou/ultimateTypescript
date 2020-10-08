@@ -6,9 +6,6 @@
     "allowUnusedLabels": false,
     "outDir": "./dist"
   },
-  "files": [],
-  "include": [],
-  "exclude": [],
   "typeAcquisition": {
     "enable": false
   },
