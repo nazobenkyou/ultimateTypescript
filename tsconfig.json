@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false
+  },
+  "files": [],
+  "include": [],
+  "exclude": []
+}
