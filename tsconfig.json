@@ -4,7 +4,9 @@
     "allowSyntheticDefaultImports": true,
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": false
   },
   "typeAcquisition": {
     "enable": false
